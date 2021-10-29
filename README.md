@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gustavomrs2006
+- 👀 I’m interested in Informatica, Programação
+- 🌱 I’m currently learning Criação de Sites, e um pouco de Javascript
